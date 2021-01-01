@@ -1,7 +1,7 @@
 # 🚀 우아한테크코스 3기 Projects
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/56240505/103433074-16396980-4c2e-11eb-8af0-01bfb640323d.jpg" alt="logo" width="50%"/>
+    <img src="https://user-images.githubusercontent.com/56240505/103433074-16396980-4c2e-11eb-8af0-01bfb640323d.jpg" alt="logo" width="40%"/>
 </p>
 
 > [우아한테크코스](https://woowacourse.github.io/)에서 수행한 모든 프로젝트를 기록으로 남긴다.
