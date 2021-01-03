@@ -1,4 +1,4 @@
-# 🚀 우아한테크코스 3기 Projects
+# 🚀 우아한테크코스 Projects
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/56240505/103433074-16396980-4c2e-11eb-8af0-01bfb640323d.jpg" alt="logo" width="40%"/>
