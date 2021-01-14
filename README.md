@@ -13,15 +13,15 @@
 
 ## 🏳️ Pre-Course : 선발 과정
 
-* Pre-Course 기간 : ``2020.11.25 - 2020.12.16``
+* 기간 : ``2020.11.25 - 2020.12.16``
 * 최종 코딩 테스트 : ``2020.12.19``
 
-| Project | Repository | Pull Request |
-|:---:|:---|:---|
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/xlffm3/java-baseball-precourse/tree/xlffm3) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/339) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/xlffm3/java-racingcar-precourse/tree/xlffm3) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/305) |
-| 지하철 노선도 | [java-subway-map-precourse](https://github.com/xlffm3/java-subway-map-precourse/tree/xlffm3) | [Pull Request](https://github.com/woowacourse/java-subway-map-precourse/pull/88) |
-| 지하철 노선도 경로 조회 | [java-subway-path-precourse](https://github.com/xlffm3/java-subway-path-precourse/tree/xlffm3) | [Pull Request](https://github.com/woowacourse/java-subway-path-precourse/pull/32) |
+| Step | Project | Repository | Pull Request |
+|:---:|:---:|:---:|:---|
+| 1 |  숫자 야구 게임  | [java-baseball-precourse](https://github.com/xlffm3/java-baseball-precourse/tree/xlffm3) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/339) |
+| 2 | 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/xlffm3/java-racingcar-precourse/tree/xlffm3) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/305) |
+| 3 | 지하철 노선도 | [java-subway-map-precourse](https://github.com/xlffm3/java-subway-map-precourse/tree/xlffm3) | [Pull Request](https://github.com/woowacourse/java-subway-map-precourse/pull/88) |
+| Exam | 지하철 노선도 경로 조회 | [java-subway-path-precourse](https://github.com/xlffm3/java-subway-path-precourse/tree/xlffm3) | [Pull Request](https://github.com/woowacourse/java-subway-path-precourse/pull/32) |
 
 <br>
 
