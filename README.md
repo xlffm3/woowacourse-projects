@@ -7,7 +7,7 @@
 > [우아한테크코스](https://woowacourse.github.io/)에서 수행한 모든 프로젝트를 기록으로 남긴다.
 
 * 기간 : ``2020.02.02 - ``
-* 각 프로젝트를 진행하면서 학습 및 회고한 내용들은 [블로그](https://xlffm3.github.io/categories/#%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4)에 정리했습니다.
+* 각 프로젝트를 진행하면서 학습 및 회고한 내용들은 [블로그](https://xlffm3.github.io/tags/#%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4)에 정리했습니다.
 
 <br>
 
