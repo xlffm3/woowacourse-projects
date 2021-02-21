@@ -30,6 +30,8 @@
 |:---:|:---:|:---:|:---|
 | 1 | 자동차 경주 게임 | [java-racingcar-step1](https://github.com/xlffm3/java-racingcar/tree/step1) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/165) |
 |  | |  [java-racingcar-step2](https://github.com/xlffm3/java-racingcar/tree/step2) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/197) |
+| 2 | 로또 | [java-lotto-step1](https://github.com/xlffm3/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/228) |
+|  | |  [java-lotto-step2](https://github.com/xlffm3/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/282) |
 
 <br>
 
