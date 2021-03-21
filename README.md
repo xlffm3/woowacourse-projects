@@ -34,6 +34,8 @@
 |  | |  [java-lotto-step2](https://github.com/xlffm3/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/282) |
 | 3 | 블랙잭 | [java-blackjack-step1](https://github.com/xlffm3/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/113) |
 |  | |  [java-blackjack-step2](https://github.com/xlffm3/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/162) |
+| 4 | 체스 | [java-chess-step1](https://github.com/xlffm3/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/174) |
+|  | |  [java-chess-step2](null) | [Pull Request](null) |
 <br>
 
 ## 🌱 Pre-Course : 선발 과정
