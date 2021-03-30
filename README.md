@@ -35,7 +35,7 @@
 | 3 | 블랙잭 | [java-blackjack-step1](https://github.com/xlffm3/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/113) |
 |  | |  [java-blackjack-step2](https://github.com/xlffm3/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/162) |
 | 4 | 체스 | [java-chess-step1](https://github.com/xlffm3/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/174) |
-|  | |  [java-chess-step2](null) | [Pull Request](null) |
+|  | |  [java-chess-step2](https://github.com/xlffm3/java-chess/tree/step2) | [Pull Request](null) |
 | 5 | To-Do List | [js-todo-list-step1](https://github.com/xlffm3/js-todo-list-step1/tree/step1) | [Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/4) |
 
 <br>
