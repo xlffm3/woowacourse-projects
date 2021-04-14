@@ -11,6 +11,26 @@
 
 <br>
 
+## 🐣 Level 2 : Web Programming with Spring
+
+### 기간
+
+* ``2021.04.13 - 2021.06.03``
+
+### 학습 목표
+
+* Spring 프레임워크 기반으로 웹 애플리케이션을 개발하는 경험을 한다.
+* TDD, ATDD 기반으로 웹 애플리케이션을 개발하고 리팩토링하는 경험을 한다.
+* 구현한 프로그램을 서버에 배포하는 경험을 한다.
+
+### 진행 미션
+
+| Step | Project | Repository | Pull Request |
+|:---:|:---:|:---:|:---|
+| 1 | 체스 | [jwp-chess-step1](https://github.com/xlffm3/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/219) |
+
+<br>
+
 ## 🥚 Level 1 : TDD, Refactoring, Clean Code with Java
 
 ### 기간
