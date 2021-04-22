@@ -28,6 +28,7 @@
 | Step | Project | Repository | Pull Request |
 |:---:|:---:|:---:|:---|
 | 1 | 체스 | [jwp-chess-step1](https://github.com/xlffm3/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/219) |
+|  |  | [jwp-chess-step2](https://github.com/xlffm3/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/277) |
 
 <br>
 
