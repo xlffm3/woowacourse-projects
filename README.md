@@ -31,8 +31,9 @@
 |  |  | [jwp-chess-step2](https://github.com/xlffm3/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/277) |
 | 2 | 지하철 노선도 관리 | [atdd-subway-map-step1](https://github.com/xlffm3/atdd-subway-map/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/84) |
 | | | [atdd-subway-map-step2](https://github.com/xlffm3/atdd-subway-map/tree/step2) | [Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/116) |
-| 3 | 지하철 경로 조회 | [atdd-subway-path-step1](https://github.com/xlffm3/atdd-subway-path/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/91) |
+| 3 | 지하철 경로 조회 / 로그인| [atdd-subway-path-step1](https://github.com/xlffm3/atdd-subway-path/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/91) |
 |  |  | [atdd-subway-path-step2](https://github.com/xlffm3/atdd-subway-path/tree/step2) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/120) |
+| 4 | 지하철 요금 조회 / 배포 | [atdd-subway-fare](https://github.com/xlffm3/atdd-subway-fare/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-fare/pull/7) |
 
 <br>
 
@@ -88,7 +89,8 @@
 
 | Level | Project | Repository | Pull Request |
 |:---:|:---:|:---:|:---|
-| 1 | 우아한테크코스 한 달 생활기 | [woowa-writing-3-level1](https://github.com/xlffm3/woowa-writing-3/blob/xlffm3/README.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/39)
+| 1 | 우아한테크코스 한 달 생활기 | [woowa-writing-3-level1](https://github.com/xlffm3/woowa-writing-3/tree/xlffm3/level1) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/39) |
+| 2 | 우테코에서 찾은 나만의 효과적인 공부법 |[woowa-writing-3-level2](https://github.com/xlffm3/woowa-writing-3/tree/xlffm3/level2) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/101) |
 
 <br>
 
