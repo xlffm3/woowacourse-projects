@@ -6,8 +6,40 @@
 
 > [우아한테크코스](https://woowacourse.github.io/)에서 수행한 모든 프로젝트를 기록으로 남긴다.
 
-* 기간 : ``2020.02.02 - ``
+* 기간 : ``2021.02.02 - 2021.11.26``
 * 각 프로젝트를 진행하면서 학습 및 회고한 내용들은 [블로그](https://xlffm3.github.io/tags/#%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4)에 정리했습니다.
+
+<br>
+
+## 🐥 Level 3 : Team Project
+
+### 기간
+
+* ``2021.06.22 - 2021.08.13``
+
+### 학습 목표
+
+* 개발 프로세스 기반으로 프로젝트 기획과 진행 및 협업하는 경험을 한다.
+* 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
+
+### 진행 미션
+
+> GitHub Repo 기반 개발 장려 SNS, 깃-들다 (Pick-Git) 개발 프로젝트 😇💪
+
+| Category | Description |
+|:---:| :---: |
+| Service | [깃-들다 (Pick-Git) 서비스](https://pick-git.com/) |
+| GitHub Repository | [2021-pick-git](https://github.com/woowacourse-teams/2021-pick-git)|
+| 기술 블로그 | [2021-pick-git.github.io](https://2021-pick-git.github.io/) |
+
+### Demo Videos
+
+| Category | Description |
+|:---:| :---: |
+| 1차 데모 동영상 | [프로젝트 기획 & 팀 문화](https://www.youtube.com/watch?v=kMf7Zt5NEnI&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| 2차 데모 동영상 | [브랜치 전략 & CI/CD 자동화](https://www.youtube.com/watch?v=2tsH6a-CFlQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| 3차 데모 동영상 | [API 문서화 & 로깅 전략 & 테스트 자동화](https://www.youtube.com/watch?v=VOSoIIGjdI8&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| 4차 데모 동영상 | CloudWatch Log 수집 & 정적 분석 리포트 |
 
 <br>
 
@@ -33,7 +65,7 @@
 | | | [atdd-subway-map-step2](https://github.com/xlffm3/atdd-subway-map/tree/step2) | [Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/116) |
 | 3 | 지하철 경로 조회 / 로그인| [atdd-subway-path-step1](https://github.com/xlffm3/atdd-subway-path/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/91) |
 |  |  | [atdd-subway-path-step2](https://github.com/xlffm3/atdd-subway-path/tree/step2) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/120) |
-| 4 | 지하철 요금 조회 / 배포 | [atdd-subway-fare](https://github.com/xlffm3/atdd-subway-fare/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-fare/pull/7) |
+| 4 | 지하철 요금 조회 / 배포 | [atdd-subway-fare-step1](https://github.com/xlffm3/atdd-subway-fare/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-fare/pull/7) |
 
 <br>
 
@@ -83,6 +115,37 @@
 
 <br>
 
+## 🗃 Tecoble : 우아한테크코스 코드 리뷰 블로그
+
+### 기간
+
+* ``2021.04.19 - 2021.11.26``
+
+### 활동 목표
+
+* 우아한테크코스 과정을 통해 새롭게 학습한 정보 및 지식을 글로 정리해 공유한다.
+
+### Tecoble?
+
+| Category | Description |
+|:---:| :---: |
+| Service | [Tecoble 블로그](https://woowacourse.github.io/tecoble/) |
+| GitHub Repository | [tecoble](https://github.com/woowacourse/tecoble)|
+
+### 활동 내역
+
+| Category | Description |
+|:---:| :---: |
+| Post | [DTO의 사용 범위에 대하여](https://woowacourse.github.io/tecoble/post/2021-04-25-dto-layer-scope/) |
+| Post | [@RequestBody vs @ModelAttribute](https://woowacourse.github.io/tecoble/post/2021-05-11-requestbody-modelattribute/) |
+| Post | [인증 방식 : Cookie & Session vs JWT](https://woowacourse.github.io/tecoble/post/2021-05-22-cookie-session-jwt/) |
+| Post | [AOP 입문자를 위한 개념 이해하기](https://woowacourse.github.io/tecoble/post/2021-06-25-aop-transaction/) |
+| Post | [OAuth 개념 및 동작 방식 이해하기](https://woowacourse.github.io/tecoble/post/2021-07-10-understanding-oauth/) |
+| Post | [JPA Pagination, 그리고 N + 1 문제](https://woowacourse.github.io/tecoble/post/2021-07-26-jpa-pageable/) |
+| Post | [Spring Boot에 QueryDSL을 사용해보자](https://woowacourse.github.io/tecoble/post/2021-08-08-basic-querydsl/) |
+
+<br>
+
 ## 🖋 Writing : 글쓰기 코스
 
 ### 진행 미션
@@ -91,6 +154,7 @@
 |:---:|:---:|:---:|:---|
 | 1 | 우아한테크코스 한 달 생활기 | [woowa-writing-3-level1](https://github.com/xlffm3/woowa-writing-3/tree/xlffm3/level1) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/39) |
 | 2 | 우테코에서 찾은 나만의 효과적인 공부법 |[woowa-writing-3-level2](https://github.com/xlffm3/woowa-writing-3/tree/xlffm3/level2) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/101) |
+| 3 | 팀 프로젝트가 나에게 남긴 것 | [woowa-writing-3-level3](https://github.com/xlffm3/woowa-writing-3/tree/xlffm3/level3) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/193) |
 
 <br>
 
