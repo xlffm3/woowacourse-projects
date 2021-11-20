@@ -11,16 +11,45 @@
 
 <br>
 
+## 🐓 Level 4 : 
+
+### 기간
+
+* ``2021.08.24 – 2021.10.29``
+
+### 학습 목표
+
+* 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
+* JDBC 라이브러리, MVC, DI 프레임워크 구현을 통해 Spring 프레임워크의 동작 원리를 이해한다.
+* 대용량 서비스를 위한 시스템 아키텍처 설계 및 데이터 처리 경험을 한다.
+* 레거시 코드를 리팩토링하면서 안정적으로 서비스를 운영해 보는 경험을 한다.
+
+### 진행 미션
+
+| Step | Project | Repository | Pull Request |
+|:---:|:---:|:---:|:---|
+| 1 | HTTP 서버 구현하기 | [jwp-dashboard-http-step1](https://github.com/xlffm3/jwp-dashboard-http/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/3) |
+| | | [jwp-dashboard-http-step2](https://github.com/xlffm3/jwp-dashboard-http/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/74) |
+| 2 | MVC 프레임워크 구현하기 | [jwp-dashboard-mvc-step1](https://github.com/xlffm3/jwp-dashboard-mvc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/17) |
+| | | [jwp-dashboard-mvc-step2](https://github.com/xlffm3/jwp-dashboard-mvc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/102) |
+| 3 | JDBC 라이브러리 구현하기 | [jwp-dashboard-jdbc-step1](https://github.com/xlffm3/jwp-dashboard-jdbc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/4) |
+| 4 | 조회 성능 개선하기 | [sql-tuning-step1](https://github.com/xlffm3/sql-tuning/tree/step1) | [Pull Request](https://github.com/woowacourse/sql-tuning/pull/3) |
+| 5 | 레거시 코드 리팩터링 | [jwp-refactoring-step1](https://github.com/xlffm3/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/98) |
+| | | [jwp-refactoring-step2](https://github.com/xlffm3/jwp-refactoring/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/109) |
+
+<br>
+
 ## 🐥 Level 3 : Team Project
 
 ### 기간
 
-* ``2021.06.22 - 2021.08.13``
+* ``2021.06.22 - 2021.10.29``
 
 ### 학습 목표
 
 * 개발 프로세스 기반으로 프로젝트 기획과 진행 및 협업하는 경험을 한다.
 * 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
+* 안정적인 서비스 운영을 위해 성능을 진단하고 개선하는 경험을 한다.
 
 ### 진행 미션
 
@@ -28,18 +57,20 @@
 
 | Category | Description |
 |:---:| :---: |
-| Service | [깃-들다 (Pick-Git) 서비스](https://pick-git.com/) |
-| GitHub Repository | [2021-pick-git](https://github.com/woowacourse-teams/2021-pick-git)|
-| 기술 블로그 | [2021-pick-git.github.io](https://2021-pick-git.github.io/) |
+| Service | [깃-들다 (Pick-Git)](https://pick-git.com/) |
+| Repository | [2021-pick-git](https://github.com/woowacourse-teams/2021-pick-git)|
+| Tech Blog | [2021-pick-git.github.io](https://2021-pick-git.github.io/) |
+| ETC | [Demo Day Site](https://sites.google.com/woowahan.com/wooteco-demo-3rd/%EA%B9%83-%EB%93%A4%EB%8B%A4?authuser=0) |
 
 ### Demo Videos
 
 | Category | Description |
 |:---:| :---: |
-| 1차 데모 동영상 | [프로젝트 기획 & 팀 문화](https://www.youtube.com/watch?v=kMf7Zt5NEnI&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
-| 2차 데모 동영상 | [브랜치 전략 & CI/CD 자동화](https://www.youtube.com/watch?v=2tsH6a-CFlQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
-| 3차 데모 동영상 | [API 문서화 & 로깅 전략 & 테스트 자동화](https://www.youtube.com/watch?v=VOSoIIGjdI8&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
-| 4차 데모 동영상 | CloudWatch Log 수집 & 정적 분석 리포트 |
+| Video | [프로젝트 기획 & 팀 문화](https://www.youtube.com/watch?v=kMf7Zt5NEnI&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| Video | [브랜치 전략 & CI/CD 자동화](https://www.youtube.com/watch?v=2tsH6a-CFlQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| Video | [API 문서화 & 로깅 전략 & 테스트 자동화](https://www.youtube.com/watch?v=VOSoIIGjdI8&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| Video | [CloudWatch Log 수집 & 정적 분석 리포트](https://www.youtube.com/watch?v=dcPXY9-t4D8) |
+| Video | [안정적인 서비스 운영을 위한 성능 진단 및 개선](https://www.youtube.com/watch?v=06esvMK9oY0) |
 
 <br>
 
@@ -123,7 +154,7 @@
 
 ### 활동 목표
 
-* 우아한테크코스 과정을 통해 새롭게 학습한 정보 및 지식을 글로 정리해 공유한다.
+* 코드 리뷰 중 중요도가 높고 자주 언급되는 주제를 글로 정리해 우아한테크코스 기술 블로그에 공유한다.
 
 ### Tecoble?
 
@@ -132,7 +163,7 @@
 | Category | Description |
 |:---:| :---: |
 | Service | [Tecoble 블로그](https://woowacourse.github.io/tecoble/) |
-| GitHub Repository | [tecoble](https://github.com/woowacourse/tecoble)|
+| Repository | [tecoble](https://github.com/woowacourse/tecoble)|
 
 ### 활동 내역
 
@@ -145,10 +176,33 @@
 | Post | [OAuth 개념 및 동작 방식 이해하기](https://woowacourse.github.io/tecoble/post/2021-07-10-understanding-oauth/) |
 | Post | [JPA Pagination, 그리고 N + 1 문제](https://woowacourse.github.io/tecoble/post/2021-07-26-jpa-pageable/) |
 | Post | [Spring Boot에 QueryDSL을 사용해보자](https://woowacourse.github.io/tecoble/post/2021-08-08-basic-querydsl/) |
+| Post | [관계형 DB에서 계층적인 데이터 관리하기](https://tecoble.techcourse.co.kr/post/2021-09-03-hierarchy-data-with-rdb/) |
+| Post | [DB Index 입문](https://tecoble.techcourse.co.kr/post/2021-09-18-db-index/) |
+| Post | [Spring Data Elasticsearch 설정 및 검색 기능 구현](https://tecoble.techcourse.co.kr/post/2021-10-19-elasticsearch/) |
+
+<br>
+
+## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
+
+### 활동 목표
+
+* 현장에서 필요한 말하기 능력을 향상시키기 위해 발표를 진행한다.
+
+### 활동 내역
+
+| Category | Description |
+|:---:| :---: |
+| Video | [[10분 테코톡] 🚴‍♂️ 케빈의 Deadlock](https://www.youtube.com/watch?v=Ry_gB34cvwc) |
 
 <br>
 
 ## 🖋 Writing : 글쓰기 코스
+
+### 학습 목표
+
+* 각 레벨 별로 한 편의 글을 완성하도록 한다.
+* 한 편의 글에 자신의 생각과 감정을 논리적으로 담을 수 있도록 한다.
+* 독자가 이해하기 쉬운 글을 작성한다.
 
 ### 진행 미션
 
@@ -157,6 +211,7 @@
 | 1 | 우아한테크코스 한 달 생활기 | [woowa-writing-3-level1](https://github.com/xlffm3/woowa-writing-3/tree/xlffm3/level1) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/39) |
 | 2 | 우테코에서 찾은 나만의 효과적인 공부법 |[woowa-writing-3-level2](https://github.com/xlffm3/woowa-writing-3/tree/xlffm3/level2) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/101) |
 | 3 | 팀 프로젝트가 나에게 남긴 것 | [woowa-writing-3-level3](https://github.com/xlffm3/woowa-writing-3/tree/xlffm3/level3) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/193) |
+| 4 | 내가 꿈꾸는 프로그래머로서의 삶 | [woowa-writing-3-level4](https://github.com/xlffm3/woowa-writing-3/tree/xlffm3/level4) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/291) |
 
 <br>
 
