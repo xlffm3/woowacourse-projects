@@ -179,6 +179,7 @@
 | Post | [관계형 DB에서 계층적인 데이터 관리하기](https://tecoble.techcourse.co.kr/post/2021-09-03-hierarchy-data-with-rdb/) |
 | Post | [DB Index 입문](https://tecoble.techcourse.co.kr/post/2021-09-18-db-index/) |
 | Post | [Spring Data Elasticsearch 설정 및 검색 기능 구현](https://tecoble.techcourse.co.kr/post/2021-10-19-elasticsearch/) |
+| Post | [DIP : 변경에 유연하고 테스트하기 좋은 코드 설계](https://tecoble.techcourse.co.kr/post/2021-11-21-dip/) |
 
 <br>
 
